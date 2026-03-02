@@ -5,7 +5,7 @@ title: Mark Nguyen
 
 ## About Me
 
-(![Profile Picture]/assets/images/MARK_NGUYEN_Headshot.jpg)
+![Profile Photo](/assets/images/MARK_NGUYEN_Headshot.jpg)
  
 My name is Mark Nguyen, and I am a sophomore Biological Engineering student who sits at the cross roads of STEM and Business Strategy. 
 
