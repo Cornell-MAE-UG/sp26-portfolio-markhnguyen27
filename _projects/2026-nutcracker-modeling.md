@@ -65,7 +65,7 @@ IV) Utilize Trignometric ratios for full system dimensions <br>
 **Solution:** <br>
 ![Part B Work](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcrackerB_work.png)
 **Reflection:** <br>
-When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead present it from "sinking into" the ground. Finally, verifying dimension ratios later conffirmed the size of the device.
+When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead prevent it from "sinking into" the ground. Finally, verifying dimension ratios later confirmed the size of the device.
 
 ---
 Discussion
