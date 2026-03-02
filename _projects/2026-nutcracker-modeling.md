@@ -83,6 +83,6 @@ When looking over my two designs as a whole, several questions came to mind abou
 ---
 Sources
 ---
-Grip Strength: Pratt J, De Vito G, Narici M, Segurado R, Dolan J, Conroy J, Boreham C. Grip strength performance from 9431 participants of the GenoFit study: normative data and associated factors. Geroscience. 2021 Oct. https://pmc.ncbi.nlm.nih.gov/articles/PMC8599604/ <br>
-Macademia Nut Strength: Schrauf et al. Do capuchin monkeys use weight to select hammer tools, Anim Cogn 11, 413–422 (2008). https://doi.org/10.1007/s10071-007-0131-2<br>
-Actuator: Progressive Automations. Mini Linear Actuator - Optional Feedback. Model: PA-14-3-150. https://www.progressiveautomations.com/products/pa-14?variant=18277278449731 
+**Grip Strength:** Pratt J, De Vito G, Narici M, Segurado R, Dolan J, Conroy J, Boreham C. Grip strength performance from 9431 participants of the GenoFit study: normative data and associated factors. Geroscience. 2021 Oct. https://pmc.ncbi.nlm.nih.gov/articles/PMC8599604/ <br>
+**Macademia Nut Strength and Dimensions:** Schrauf et al. Do capuchin monkeys use weight to select hammer tools, Anim Cogn 11, 413–422 (2008). https://doi.org/10.1007/s10071-007-0131-2<br>
+**Actuator**: Progressive Automations. Mini Linear Actuator - Optional Feedback. Model: PA-14-3-150. https://www.progressiveautomations.com/products/pa-14?variant=18277278449731 
