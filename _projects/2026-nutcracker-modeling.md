@@ -47,7 +47,7 @@ Part B Scope
 |:---:|:---:|:---:|:---:|
 |D = 0.75"|222.18kg|3" Stroke|68.04kg|
 
-**Find:** Dimensions for Nutcracker
+**Find:** Dimensions for Actuator Assisted Nutcracker
 
 ---
 Part B Work
