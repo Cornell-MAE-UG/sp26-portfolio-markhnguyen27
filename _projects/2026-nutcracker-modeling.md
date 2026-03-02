@@ -35,7 +35,9 @@ IV) Utilize the Sum of Moments about point A to determine ratio of Moment Arms <
 V) Utilize Trignometric ratios for Arm Lengths <br>
 
 **Solution:** <br>
+![Part A Diagram](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcracker_ptA_diagram.png)
 
+![Part A Work](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcrackerA_work.png)
 **Reflection:** <br>
 
 ---
@@ -55,10 +57,10 @@ Part B Work
 
 **Plan:** <br>
 I) Draw rough design of Device with intial dimensional assumptions, altering device for single force input <br>
-II) Generate an Exploded Free Body Diagram of Device (Top Half) <br>
-III) Utilize the Sum of Moments about point A to determine ratio of Moment Arms <br>
-IV) Utilize Trignometric ratios for Arm Lengths <br>
+II) Ratio Force input to Force Needed <br>
+III) Utilize this ratio to determine moment arm lengths <br>
+IV) Utilize Trignometric ratios for full system dimensions <br>
 
 **Solution:** <br>
-
+![Part B Work](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcrackerB_work.png)
 **Reflection:** <br>
