@@ -10,6 +10,7 @@ For a class, we were asked to design our own Nutcracker. This design was to both
 
 ![Project Image](../assets/images/Nutcracker Problem.png)
 
+![Project Image](
 ---
 Project Work
 ---
