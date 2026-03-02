@@ -8,7 +8,7 @@ Project Overview
 ---
 For a class, we were asked to design our own Nutcracker. This design was to both calculate the machanical advantage of a device through set parameters, but also develop and analyze if intial design concepts were feasible.
 
-![Project Image](/assets/images/Nutcracker Problem.png)
+![Project Image](../assets/images/Nutcracker Problem.png)
 
 ---
 Project Work
