@@ -1,6 +1,7 @@
 ---
-Layout: Project
-Title: Nutcracker Design
+layout: project
+title: Nutcracker Design
+image:
 Description: Statics Mechanical Advantage
 Course: Statics and Mechanics of Solids
 ---
@@ -11,7 +12,7 @@ Simple geometry assumptions were made for the sake of simplifying the task. <br>
 
 After designing our original nutcracker, we were then tasked with altering the design of our nutcracker to utilize a Linear Actuator in some capacity.<br>
 
-![Project Image](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/aabee7b7842c1147a77e0f838962d993443665a3/assets/images/nutcracker_problem.png)
+![Project Image]({{ "/assets/images/nutcracker_problem.png" | relative_url }})
 
 ---
 Part A Scope
@@ -36,9 +37,9 @@ IV) Utilize the Sum of Moments about point A to determine ratio of Moment Arms <
 V) Utilize Trignometric ratios for Arm Lengths <br>
 
 **Solution:** <br>
-![Part A Diagram](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcracker_ptA_diagram.png)
+![Part A Diagram]({{ "/assets/images/nutcracker_ptA_diagram.png" | relative_url }})
 
-![Part A Work](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcrackerA_work.png)
+![Part A Work]({{ "/assets/images/nutcrackerA_work.png" | relative_url }})
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to single vs double force input lead to a logical conclusion that a cracker that is gripped would had force applied to the shell on both sides, generating a summed force towards breaking. Finally, verifying dimension ratios later confirmed the size of the device.
 
@@ -64,7 +65,7 @@ III) Utilize this ratio to determine moment arm lengths <br>
 IV) Utilize Trignometric ratios for full system dimensions <br>
 
 **Solution:** <br>
-![Part B Work](https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/130c973b712fffb50a063f663fd93a9b7aa922a2/assets/images/nutcrackerB_work.png)
+![Part B Work]({{ "/assets/images/nutcrackerB_work.png" | relative_url }})
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead prevent it from "sinking into" the ground. Finally, verifying dimension ratios later confirmed the size of the device.
 
