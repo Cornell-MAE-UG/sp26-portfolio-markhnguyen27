@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Nutcracker Design
+title: SP26 Nutcracker Design
 description: Statics Mechanical Advantage
 course: Statics and Mechanics of Solids
 image: /assets/images/nutcracker.jpeg
