@@ -10,11 +10,11 @@ technologies: Goodnotes
 
 ## Overview
 
-For a class, we were asked to design our own Nutcracker. This design was to both calculate the machanical advantage of a device through set parameters, but also develop and analyze if intial design concepts were feasible.<br>
-Simple geometry assumptions were made for the sake of simplifying the task. <br>
+For a class, we were asked to design our own nutcracker. This design was intended to both calculate the mechanical advantage through set parameters and develop and analyze initial design concepts for feasibility.
 
-After designing our original nutcracker, we were then tasked with altering the design of our nutcracker to utilize a Linear Actuator in some capacity.<br>
+Simple geometry assumptions were made for simplicity.
 
+After designing our original nutcracker, we were then tasked with altering the design to utilize a linear actuator in some capacity.
 <img 
   src="{{ '/assets/images/nutcracker_problem.png' | relative_url }}" 
   alt="Nutcracker Problem" 
