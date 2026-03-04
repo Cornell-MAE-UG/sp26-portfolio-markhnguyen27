@@ -4,6 +4,7 @@ title: Nutcracker Design
 description: Statics Mechanical Advantage
 course: Statics and Mechanics of Solids
 image: "{{ '/assets/images/nutcracker.png' | relative_url }}"
+technologies: []
 ---
 
 
