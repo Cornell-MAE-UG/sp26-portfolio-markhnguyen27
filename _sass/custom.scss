@@ -198,4 +198,12 @@ footer {
   transform: translateX(-4px);
 }
 
-
+/* Shrink and center all project page images */
+.project-content img {
+  max-width: 600px;   /* Largest size allowed */
+  width: 100%;        /* Shrinks proportionally for smaller screens */
+  height: auto;       /* Maintain aspect ratio */
+  display: block;     
+  margin: 20px auto;  /* Center the image and add spacing */
+  border-radius: 8px; /* Optional: rounded corners */
+}
