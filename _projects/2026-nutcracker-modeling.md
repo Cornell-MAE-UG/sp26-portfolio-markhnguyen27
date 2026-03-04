@@ -4,8 +4,8 @@ title: Nutcracker Design
 Description: Statics Mechanical Advantage
 Course: Statics and Mechanics of Solids
 ---
-Overview
----
+##Overview
+
 For a class, we were asked to design our own Nutcracker. This design was to both calculate the machanical advantage of a device through set parameters, but also develop and analyze if intial design concepts were feasible.<br>
 Simple geometry assumptions were made for the sake of simplifying the task. <br>
 
@@ -13,9 +13,7 @@ After designing our original nutcracker, we were then tasked with altering the d
 
 ![Project Image]({{ "/assets/images/nutcracker_problem.png" | relative_url }})
 
----
-Part A Scope
----
+##Part A Scope
 
 **Given:** The following parameters
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|
@@ -24,9 +22,7 @@ Part A Scope
 
 **Find:** Dimensions for Nutcracker
 
----
-Part A Work
----
+##Part A Work
 
 **Plan:** <br>
 I) Draw rough design of Device with intial dimensional assumptions <br>
@@ -42,9 +38,7 @@ V) Utilize Trignometric ratios for Arm Lengths <br>
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to single vs double force input lead to a logical conclusion that a cracker that is gripped would had force applied to the shell on both sides, generating a summed force towards breaking. Finally, verifying dimension ratios later confirmed the size of the device.
 
----
-Part B Scope
----
+##Part B Scope
 
 **Given:** The following parameters
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Actuator Dimensions|Actuator Force|
@@ -53,9 +47,7 @@ Part B Scope
 
 **Find:** Dimensions for Actuator Assisted Nutcracker
 
----
-Part B Work
----
+##Part B Work
 
 **Plan:** <br>
 I) Draw rough design of Device with intial dimensional assumptions, altering device for single force input <br>
@@ -68,9 +60,7 @@ IV) Utilize Trignometric ratios for full system dimensions <br>
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead prevent it from "sinking into" the ground. Finally, verifying dimension ratios later confirmed the size of the device.
 
----
-Discussion
----
+##Discussion
 
 When looking over my two designs as a whole, several questions came to mind about usability/feasability, restraints, and design requirements.<br>
 
@@ -80,9 +70,8 @@ When looking over my two designs as a whole, several questions came to mind abou
 
 **In the end,** when considering true practical application, design B is more user friendly as it allows for all people, regardless of hand size or grip strength, to be able to successfully crack open a macademia nut for a snack.
 
----
-Sources
----
+##Sources
+
 **Grip Strength:** Pratt J, De Vito G, Narici M, Segurado R, Dolan J, Conroy J, Boreham C. Grip strength performance from 9431 participants of the GenoFit study: normative data and associated factors. Geroscience. 2021 Oct. https://pmc.ncbi.nlm.nih.gov/articles/PMC8599604/ <br>
 **Macademia Nut Strength and Dimensions:** Schrauf et al. Do capuchin monkeys use weight to select hammer tools, Anim Cogn 11, 413–422 (2008). https://doi.org/10.1007/s10071-007-0131-2<br>
 **Actuator**: Progressive Automations. Mini Linear Actuator - Optional Feedback. Model: PA-14-3-150. https://www.progressiveautomations.com/products/pa-14?variant=18277278449731 
