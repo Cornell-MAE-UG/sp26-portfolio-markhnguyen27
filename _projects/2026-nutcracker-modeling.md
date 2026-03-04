@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Nutcracker Design
-Description: Statics Mechanical Advantage
-Course: Statics and Mechanics of Solids
+description: Statics Mechanical Advantage
+course: Statics and Mechanics of Solids
+image: /assets/images/nutcracker.png
 ---
 ##Overview
 
