@@ -18,6 +18,7 @@ After designing our original nutcracker, we were then tasked with altering the d
 ## Part A Scope
 
 **Given:** The following parameters
+
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|
 |:---:|:---:|:---:|
 |D = 0.75"|222.18kg|50kg|
@@ -43,6 +44,7 @@ When reflecting on my work done above, dimensional analysis resulted in correct 
 ## Part B Scope
 
 **Given:** The following parameters
+
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Actuator Dimensions|Actuator Force|
 |:---:|:---:|:---:|:---:|
 |D = 0.75"|222.18kg|3" Stroke|68.04kg|
