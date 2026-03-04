@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Nutcracker Design
-image:
+image: ![Nutcracker Cover]({{ "/assets/images/nutcracker.png" | relative_url }})
 Description: Statics Mechanical Advantage
 Course: Statics and Mechanics of Solids
 ---
