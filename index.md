@@ -4,7 +4,7 @@ title: Mark Nguyen
 ---
 
 ## About Me
-<img src="https://github.com/Cornell-MAE-UG/sp26-portfolio-markhnguyen27/blob/a136593863e120c3767745695f130baea8be8c23/assets/images/MARK_NGUYEN_Headshot.jpg" alt="Profile Photo" width="300" height="500">
+<img src="{{"/assets/images/MARK_NGUYEN_Headshot.jpg"|relative_url}}" alt="Profile Photo" width="300">
  
 My name is Mark Nguyen, and I am a sophomore Biological Engineering student who sits at the cross roads of STEM and Business Strategy. 
 
