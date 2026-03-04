@@ -40,7 +40,7 @@ After designing our original nutcracker, we were then tasked with altering the d
 I) Draw rough design of Device with intial dimensional assumptions <br>
 II) Generate an Exploded Free Body Diagram of Device (Top Half) <br>
 III) Utilize Symmetry to simply math and account for dual force action <br>
-IV) Utilize the Sum of Moments about point A to determine ratio of Moment Arms <br>
+IV) Utilize the Sum of Moments about point A to find ratio of Moment Arms <br>
 V) Utilize Trignometric ratios for Arm Lengths <br>
 
 **Solution:** <br>
