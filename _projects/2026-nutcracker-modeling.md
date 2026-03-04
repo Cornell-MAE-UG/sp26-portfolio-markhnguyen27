@@ -3,8 +3,9 @@ layout: project
 title: Nutcracker Design
 description: Statics Mechanical Advantage
 course: Statics and Mechanics of Solids
-image: /assets/images/nutcracker.png
+image: ![Nutcracker Project]({{ "/assets/images/nutcracker.png" | relative_url }})
 ---
+
 ##Overview
 
 For a class, we were asked to design our own Nutcracker. This design was to both calculate the machanical advantage of a device through set parameters, but also develop and analyze if intial design concepts were feasible.<br>
