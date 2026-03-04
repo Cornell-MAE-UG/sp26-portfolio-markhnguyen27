@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Sophomore Biological Engineering student at Cornell University, with a Business minor, seeking a Summer 2026 internship at the intersection of life sciences, technology, and commercial strategy. Proven experience leading cross-functional teams, managing R&D budgets, and translating scientific research into actionable business frameworks. Committed to accelerating biotechnology from discovery to market impact.
 
 ---
 
@@ -29,42 +29,30 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- *Coming Soon* 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Cornell iGEM PRoSPER 2025**:  
+  *Genetically Engineered Machine Competition Project revolved around the creation of a novel bioreactor that could sequester perchlorates and make martian soil irrigable*  
+  - Best Space Project Undergrad and Overgrad 2025
+  - Best iGEM Hardware Undergrad 2025 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- *Coming Soon* 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- *Coming Soon*
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- *Coming Soon*
 
 ---
 
