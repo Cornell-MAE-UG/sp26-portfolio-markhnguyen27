@@ -13,7 +13,12 @@ Simple geometry assumptions were made for the sake of simplifying the task. <br>
 
 After designing our original nutcracker, we were then tasked with altering the design of our nutcracker to utilize a Linear Actuator in some capacity.<br>
 
-![Project Image]({{ "/assets/images/nutcracker_problem.png" | relative_url }})
+<img 
+  src="{{ '/assets/images/nutcracker_problem.png' | relative_url }}" 
+  alt="Nutcracker Problem" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
 
 ## Part A Scope
 
@@ -22,6 +27,8 @@ After designing our original nutcracker, we were then tasked with altering the d
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|
 |:---:|:---:|:---:|
 |D = 0.75"|222.18kg|50kg|
+
+<br>
 
 **Find:** Dimensions for Nutcracker
 
@@ -35,9 +42,20 @@ IV) Utilize the Sum of Moments about point A to determine ratio of Moment Arms <
 V) Utilize Trignometric ratios for Arm Lengths <br>
 
 **Solution:** <br>
-![Part A Diagram]({{ "/assets/images/nutcracker_ptA_diagram.png" | relative_url }})
+<img 
+  src="{{ '/assets/images/nutcracker_ptA_diagram.png' | relative_url }}" 
+  alt="Part A Diagram" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
 
-![Part A Work]({{ "/assets/images/nutcrackerA_work.png" | relative_url }})
+<img 
+  src="{{ '/assets/images/nutcrackerA_work.png' | relative_url }}" 
+  alt="Part A Work" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
+
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to single vs double force input lead to a logical conclusion that a cracker that is gripped would had force applied to the shell on both sides, generating a summed force towards breaking. Finally, verifying dimension ratios later confirmed the size of the device.
 
@@ -48,6 +66,8 @@ When reflecting on my work done above, dimensional analysis resulted in correct 
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Actuator Dimensions|Actuator Force|
 |:---:|:---:|:---:|:---:|
 |D = 0.75"|222.18kg|3" Stroke|68.04kg|
+
+<br>
 
 **Find:** Dimensions for Actuator Assisted Nutcracker
 
@@ -60,7 +80,14 @@ III) Utilize this ratio to determine moment arm lengths <br>
 IV) Utilize Trignometric ratios for full system dimensions <br>
 
 **Solution:** <br>
-![Part B Work]({{ "/assets/images/nutcrackerB_work.png" | relative_url }})
+
+<img 
+  src="{{ '/assets/images/nutcrackerB_work.png' | relative_url }}" 
+  alt="Part B Work" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
+
 **Reflection:** <br>
 When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead prevent it from "sinking into" the ground. Finally, verifying dimension ratios later confirmed the size of the device.
 
