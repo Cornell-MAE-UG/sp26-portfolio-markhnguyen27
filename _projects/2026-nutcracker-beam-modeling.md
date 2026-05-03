@@ -13,6 +13,7 @@ technologies: Goodnotes
 For a class, we were asked to design our own nutcracker. This design was intended to both calculate the mechanical advantage through set parameters and develop and analyze initial design concepts for feasibility.
 
 Simple geometry assumptions were made for simplicity.
+Material selected was Stainless Steel as a kitchen appliance standard.
 
 After designing our original nutcracker, we were then tasked with altering the design to utilize a linear actuator in some capacity.
 <img 
