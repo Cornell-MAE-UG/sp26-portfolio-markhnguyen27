@@ -17,34 +17,36 @@ Material selected was Stainless Steel as a kitchen appliance standard.
 
 After designing our original nutcracker, we were then tasked with altering the design to utilize a linear actuator in some capacity.
 <img 
-  src="{{ '/assets/images/nutcracker_problem.png' | relative_url }}" 
-  alt="Nutcracker Problem" 
+  src="{{ '/assets/images/Nutcracker_AID.png' | relative_url }}" 
+  alt="Nutcracker Actuator Initial Design" 
   width="400" 
   height="auto" 
   style="display:block; margin:auto;">
 
 From my original design with the actuator, a new challenge was assigned, to consider the handle leveraged as now a bending beam instead of a ridged bar
 
-## Part 2 Scope
+## Part 2 A Scope
 
 **Given:** The Previous Actuator Design and the Following Information
 
-|Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|
-|:---:|:---:|:---:|
-|D = 0.75"|222.18kg|50kg|
+|Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|Stainless Steel E|
+|:---:|:---:|:---:|:---:|
+|D = 0.75"|222.18kg|50kg|200GPa|
 
 <br>
 
-**Find:** The location of Maximum Elastic Deflection in the Handles, and choose a "beam" design (CS & Material) s.t. the vertical elastic deflection is < 2% of its length and as mass-efficient as possible.
+**Find:** The location of Maximum Elastic Deflection in the Handles, and solve for any relevant information to be used in dimension calculations
 
-## Part A Work
+## Part 2 Work
 
 **Plan:** <br>
 I) Draw rough design of Device with intial dimensional assumptions <br>
-II) Generate an Exploded Free Body Diagram of Device (Top Half) with Actuator Force<br>
-III) Utilize Symmetry to simply math and account for dual force action <br>
-IV) Utilize the Sum of Moments about point A to find ratio of Moment Arms <br>
-V) Utilize Trignometric ratios for Arm Lengths <br>
+II) Generate an Exploded Free Body Diagram of Device (Top Half) with Actuator Force <br>
+III) Model FBD as a Pinned End, Roller at Nut, and Overhang with Force by Actuator <br>
+IV) Logically Deduce location of Maximum deflection <br>
+V) Calculate all reactions and Dimensions <br>
+VI) Utilizing known equation for Overhang, plug in reactions <br>
+VII) Plug in Material Properties to solve for Minimum I value s.t. ymax is 2% of L <br>
 
 **Solution:** <br>
 <img 
@@ -62,27 +64,27 @@ V) Utilize Trignometric ratios for Arm Lengths <br>
   style="display:block; margin:auto;">
 
 **Reflection:** <br>
-When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to single vs double force input lead to a logical conclusion that a cracker that is gripped would had force applied to the shell on both sides, generating a summed force towards breaking. Finally, verifying dimension ratios later confirmed the size of the device.
+TBWRITTEN
 
-## Part B Scope
+## Part 2 B Scope
 
 **Given:** The following parameters
 
-|Macademia Nut Dimensions|Macademia Nut Crack Force|Actuator Dimensions|Actuator Force|
+|Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|Stainless Steel E|
 |:---:|:---:|:---:|:---:|
-|D = 0.75"|222.18kg|3" Stroke|68.04kg|
+|D = 0.75"|222.18kg|50kg|200GPa|
 
 <br>
 
-**Find:** Dimensions for Actuator Assisted Nutcracker
+**Find:** A "beam" design (CS & Material) s.t. the vertical elastic deflection is < 2% of its length and as mass-efficient as possible.
 
 ## Part B Work
 
 **Plan:** <br>
-I) Draw rough design of Device with intial dimensional assumptions, altering device for single force input <br>
-II) Ratio Force input to Force Needed <br>
-III) Utilize this ratio to determine moment arm lengths <br>
-IV) Utilize Trignometric ratios for full system dimensions <br>
+I) Determine the most mass-efficient Beam Structure (Wide Flanged Beam)
+II) Utilizing the Calculated Moment of Inertia (I), plug into equation for Wide Flanged Beam <br>
+II) Using assumption of dimensional ratios, solve for the dimensions of the Beam <br>
+III) Generate final design with dimensions <br>
 
 **Solution:** <br>
 
@@ -94,7 +96,7 @@ IV) Utilize Trignometric ratios for full system dimensions <br>
   style="display:block; margin:auto;">
 
 **Reflection:** <br>
-When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the single vs double force input lead to a logical conclusion that force is only being applied to one side, and that the normal force betweeen the nut and the ground surface does nothing to crack the nut, but to instead prevent it from "sinking into" the ground. Finally, verifying dimension ratios later confirmed the size of the device.
+TBWRITTEN
 
 ## Discussion
 
