@@ -44,9 +44,6 @@ I) Draw rough design of Device with intial dimensional assumptions <br>
 II) Generate an Exploded Free Body Diagram of Device (Top Half) with Actuator Force <br>
 III) Model FBD as a Pinned End, Roller at Nut, and Overhang with Force by Actuator <br>
 IV) Logically Deduce location of Maximum deflection <br>
-V) Calculate all reactions and Dimensions <br>
-VI) Utilizing known equation for Overhang, plug in reactions <br>
-VII) Plug in Material Properties to solve for Minimum I value s.t. ymax is 2% of L <br>
 
 **Solution:** <br>
 <img 
@@ -81,10 +78,13 @@ TBWRITTEN
 ## Part B Work
 
 **Plan:** <br>
-I) Determine the most mass-efficient Beam Structure (Wide Flanged Beam)
-II) Utilizing the Calculated Moment of Inertia (I), plug into equation for Wide Flanged Beam <br>
-II) Using assumption of dimensional ratios, solve for the dimensions of the Beam <br>
-III) Generate final design with dimensions <br>
+I) Calculate all reactions and Dimensions <br>
+II) Utilizing known equation for Overhang, plug in reactions <br>
+III) Plug in Material Properties to solve for Minimum I value s.t. ymax is 2% of L <br>
+IV) Determine the most mass-efficient Beam Structure (Wide Flanged Beam)
+V) Utilizing the Calculated Moment of Inertia (I), plug into equation for Wide Flanged Beam <br>
+VI) Using assumption of dimensional ratios, solve for the dimensions of the Beam <br>
+VII) Generate final design with dimensions <br>
 
 **Solution:** <br>
 
