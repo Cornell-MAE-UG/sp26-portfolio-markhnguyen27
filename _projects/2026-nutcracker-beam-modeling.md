@@ -81,8 +81,8 @@ TBWRITTEN
 I) Calculate all reactions and Dimensions <br>
 II) Utilizing known equation for Overhang, plug in reactions <br>
 III) Plug in Material Properties to solve for Minimum I value s.t. ymax is 2% of L <br>
-IV) Determine the most mass-efficient Beam Structure (Wide Flanged Beam)
-V) Utilizing the Calculated Moment of Inertia (I), plug into equation for Wide Flanged Beam <br>
+IV) Determine the most mass-efficient Beam Structure (Wide Flanged Beam) <br>
+V) Utilizing the Calculated Moment of Inertia (I), use equation for Wide Flanged Beam <br>
 VI) Using assumption of dimensional ratios, solve for the dimensions of the Beam <br>
 VII) Generate final design with dimensions <br>
 
