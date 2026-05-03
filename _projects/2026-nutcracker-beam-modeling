@@ -22,9 +22,11 @@ After designing our original nutcracker, we were then tasked with altering the d
   height="auto" 
   style="display:block; margin:auto;">
 
-## Part A Scope
+From my original design with the actuator, a new challenge was assigned, to consider the handle leveraged as now a bending beam instead of a ridged bar
 
-**Given:** The following parameters
+## Part 2 Scope
+
+**Given:** The Previous Actuator Design and the Following Information
 
 |Macademia Nut Dimensions|Macademia Nut Crack Force|Average Male Grip|
 |:---:|:---:|:---:|
@@ -32,13 +34,13 @@ After designing our original nutcracker, we were then tasked with altering the d
 
 <br>
 
-**Find:** Dimensions for Nutcracker
+**Find:** The location of Maximum Elastic Deflection in the Handles, and choose a "beam" design (CS & Material) s.t. the vertical elastic deflection is < 2% of its length and as mass-efficient as possible.
 
 ## Part A Work
 
 **Plan:** <br>
 I) Draw rough design of Device with intial dimensional assumptions <br>
-II) Generate an Exploded Free Body Diagram of Device (Top Half) <br>
+II) Generate an Exploded Free Body Diagram of Device (Top Half) with Actuator Force<br>
 III) Utilize Symmetry to simply math and account for dual force action <br>
 IV) Utilize the Sum of Moments about point A to find ratio of Moment Arms <br>
 V) Utilize Trignometric ratios for Arm Lengths <br>
