@@ -3,7 +3,7 @@ layout: project
 title: SP26 Nutcracker Design Part 2 Beam Bending
 description: Statics Beam Bending Consideration for Non-Ridged Handles
 course: Statics and Mechanics of Solids
-image: /assets/images/nutcracker.jpeg
+image: /assets/images/Beam_Bending.png
 technologies: Goodnotes
 ---
 
