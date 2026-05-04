@@ -47,15 +47,8 @@ IV) Logically Deduce location of Maximum deflection <br>
 
 **Solution:** <br>
 <img 
-  src="{{ '/assets/images/nutcracker_ptA_diagram.png' | relative_url }}" 
+  src="{{ '/assets/images/NutcrackerPT2A.png' | relative_url }}" 
   alt="Part A Diagram" 
-  width="400" 
-  height="auto" 
-  style="display:block; margin:auto;">
-
-<img 
-  src="{{ '/assets/images/nutcrackerA_work.png' | relative_url }}" 
-  alt="Part A Work" 
   width="400" 
   height="auto" 
   style="display:block; margin:auto;">
@@ -89,15 +82,30 @@ VII) Generate final design with dimensions <br>
 **Solution:** <br>
 
 <img 
-  src="{{ '/assets/images/nutcrackerB_work.png' | relative_url }}" 
+  src="{{ '/assets/images/NutcrackerPT2B1.png' | relative_url }}" 
   alt="Part B Work" 
   width="400" 
   height="auto" 
   style="display:block; margin:auto;">
-
+  
+<img 
+  src="{{ '/assets/images/NutcrackerPT2B2.png' | relative_url }}" 
+  alt="Part B Work" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
+  
 **Reflection:** <br>
 TBWRITTEN
 
+## Final Design of Actuator Nutcracker
+<img 
+  src="{{ '/assets/images/NutcrackerPT2FD.png' | relative_url }}" 
+  alt="Part B Work" 
+  width="400" 
+  height="auto" 
+  style="display:block; margin:auto;">
+  
 ## Discussion
 
 When looking over my two designs as a whole, several questions came to mind about usability/feasability, restraints, and design requirements.<br>
