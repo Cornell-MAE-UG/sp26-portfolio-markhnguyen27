@@ -54,7 +54,7 @@ IV) Logically Deduce location of Maximum deflection <br>
   style="display:block; margin:auto;">
 
 **Reflection:** <br>
-TBWRITTEN
+When reflecting on my work done above, the model I chose does well to represent the actuator nutcracker design as no bending would occur between the nut and the hinge, while all the bending would occur after. This model also results in the logical conclusion that the most deflection occurs at the free end of the actuator force, where it will bend from the "roller" or nut location.
 
 ## Part 2 B Scope
 
@@ -96,7 +96,7 @@ VII) Generate final design with dimensions <br>
   style="display:block; margin:auto;">
   
 **Reflection:** <br>
-TBWRITTEN
+When reflecting on my work done above, dimensional analysis resulted in correct units. Further attention to the magnitude of the dimensions lead me to contemplate the accuracy of my work, but the recognition of a high Youngs Modulus addressed my concerns regarding the size of the I-Beam. Finally, wide flanged I-Beams are traditionally the most mass efficient to high Moment of Inertia cross section, so utilizing it in the design makes the most sense.
 
 ## Final Design of Actuator Nutcracker
 <img 
@@ -108,13 +108,11 @@ TBWRITTEN
   
 ## Discussion
 
-When looking over my two designs as a whole, several questions came to mind about usability/feasability, restraints, and design requirements.<br>
+When looking over my design as a whole, one main question came to mind about the logicallity of my design<br>
 
-**First, when looking at design A:** the small size of the nutcracker creates a device whose usage is limited in scope, and would fit awkwardly in a hand. The relatively large gap between the grips would cause awkward holding and the inability to optimize grip strength simply due to its wide stature. Some solutions to fixing this, for later consideration, would be to ensure the nut is secured further from joint A, as this would create an overall longer device, but a device more suitable for human use. Overall, the design is largely restrained in usage, being limited to very specific or smaller dimensions of Macademia Nut. It is awkward to hold/use, and the design requirements are met, but are to a minimum.
+**First, when looking at the Final Design Above:** the small size of the Cross Section of the "beam" used seemed irrational, but then I took into consideration the large Youngs Modulus of Stainless Steel, the sizing became more practical. Additionally, the thin beam overall makes sense as this is the Minimum viable structure that fullfills the nutcracker requirements. It does not have any "Factor of Safety" as it is the most efficient design I created under perfect hypothetical conditions.
 
-**Second, when looking at design B:** the shifting of the macademia nut to being further from joint A led to a device that was longer, yet less "tall" when breaking the nut. Working within the restrictions of the max stroke length of the linear actuator, the distance from joint to nut had to become longer. This design, overall, is feasible and has the benefit of having a solid base that the nut is cracked onto. When comparing this design to the design of part A, the dimensions say that part A is more practical, but when comparing Mechanical Advantages, it is clear that design B has a better ratio of Length-Force. Overall, this design is also limited in use because it was design specifically for the requirements of a macademia nut without any flexability, but its design is easier for human use as it does not require an awkward grip width.
-
-**In the end,** when considering true practical application, design B is more user friendly as it allows for all people, regardless of hand size or grip strength, to be able to successfully crack open a macademia nut for a snack.
+**In the end,** when considering true practical application of my Nutcracker device, mathematically I would work under perfect conditions, but constant usage would eventually wear down the material, causing failure by beam bending. In a hypothetical world, however, it does remain the minimum viable product for project success.
 
 ## Sources
 
